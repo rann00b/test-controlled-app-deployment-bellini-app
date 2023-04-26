@@ -1,0 +1,5 @@
+{
+  "name": "test-controlled-app-deployment",
+  "type": "app",
+  "defaultPage": "home"
+}
